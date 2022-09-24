@@ -1,0 +1,24 @@
+{
+  "name": "fsd-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PruthviRaj0009/FSD-Workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PruthviRaj0009/FSD-Workshop/issues"
+  },
+  "homepage": "https://github.com/PruthviRaj0009/FSD-Workshop#readme",
+  "dependencies": {
+    "ejs": "^3.1.8"
+  }
+}
